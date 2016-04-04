@@ -3,9 +3,14 @@
 
 ## Talk
 
-- [] Finish Decks - Benjamin
-- [] Use Cases at Team Orange - Bastian
-- [] Use Cases at AM - ?
+- [x] 01 Welcome - Benjamin
+- [x] 02 Docker Party - Benjamin
+- [ ] 03 Docker Introduction
+- [ ] 04 Docker Basics
+- [ ] 05 Docker Best Practises
+- [ ] 06 Docker Use Cases: Examples
+- [ ] 06 Docker Use Cases: Relase Automation (CDP) - Bastian
+- [ ] 06 Docker Use Cases: Application/Infrasctructure Team - ?
 
 ## Workshops
 
@@ -22,7 +27,7 @@
 
 ## Environment
 
-- [ ] Signs
+- [ ] Hall Signs
 - [ ] Flipchart, Beamer
 - [ ] Room Preparation (Social & Open Space)
 

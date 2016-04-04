@@ -1,17 +1,31 @@
-Examples
 
-owncloud, ampache
-birthday party app
-vpn
-elasticsearch
+#  Docker Use Cases
+
+- Automation Team
+- Operations Team
+- Examples
 
 ----
 
-Use Cases at epages
+### Automation Team
 
--
--
--
--
+- UI Tests
+- Performance Tests
+- Test Data Aggregation & Storage (ELK)
+- Provisioning (Capistrano)
 
----- 
+----
+
+### Operations Team
+
+- ?
+- ?
+- ?
+- ?
+
+----
+
+### Examples
+
+- owncloud, ampache
+- vpn

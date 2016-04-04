@@ -35,7 +35,7 @@ reveal-md talk/07_docker_workshops.md --theme solarized
 
 ### Workshop
 
-* [Official Docker Party](https://github.com/docker/docker-birthday-3)
+* [Official Docker Birthday App](https://github.com/docker/docker-birthday-3)
 * [Core OS Experiments](https://github.com/jenadevs/coreos-vagrant)
 * In repo dir: `workshop/`
 
