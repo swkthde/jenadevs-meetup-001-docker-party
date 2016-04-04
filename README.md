@@ -1,6 +1,13 @@
-# Jena Developers Meetup 001: Docker Party - Intro and Best Practices for Containers
+## Docker Party - Intro and Best Practices for Containers
 
-## Talk
+This repository of the 1st [Jena Developers Meetup](www.meetup.com/jenadevs) of the [Softwerkskammer Jena](https://www.softwerkskammer.org/groups/jena), the local Software Craftsmanship Community around Jena, contains the material for the talk, the workshops and additional information like a cheatsheet and references.
+
+The event and its participants are listed here:
+
+* [Softwerkskammer Activity](https://www.softwerkskammer.org/activities/jenadevs-001)
+* [Jena Developers Meetup](http://www.meetup.com/jenadevs/events/229510357)
+
+### Talk
 
 Slides can be run via [reveal-md](https://github.com/webpro/reveal-md).
 
@@ -25,9 +32,9 @@ reveal-md talk/05-docker-use-cases.md --theme solarized
 reveal-md talk/05-docker-workshop.md --theme solarized
 ```
 
-## Workshop
+### Workshop
 
 * [Official Docker Party](https://github.com/docker/docker-birthday-3)
 * [Core OS Experiments](https://github.com/jenadevs/coreos-vagrant)
-* In dir: `workshop/`
+* In repo dir: `workshops/`
 
