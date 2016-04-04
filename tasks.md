@@ -9,8 +9,8 @@
 - [ ] 04 Docker Basics
 - [ ] 05 Docker Best Practises
 - [ ] 06 Docker Use Cases: Examples
-- [ ] 06 Docker Use Cases: Relase Automation (CDP) - Bastian
-- [ ] 06 Docker Use Cases: Application/Infrasctructure Team - ?
+- [ ] 06 Docker Use Cases: Relase Automation (CDP) - Bastian, Kay
+- [ ] 06 Docker Use Cases: Application/Infrasctructure Team - Christian
 
 ## Workshops
 
@@ -23,15 +23,15 @@
 - [ ] Webmontag Jena - Benjamin
 - [ ] Uni Aushang & Prof. K. - ?
 - [ ] RND Blog Article - ?
-- [ ] T-Shirts from dt. Zoll - Bastian, Benjamon
+- [ ] T-Shirts from dt. Zoll - Bastian, Benjamin
 
 ## Environment
 
-- [ ] Hall Signs
-- [ ] Flipchart, Beamer
-- [ ] Room Preparation (Social & Open Space)
+- [ ] Hall Signs - Oliver
+- [ ] Flipchart, Beamer - Oliver
+- [ ] Room Preparation (Social & Open Space) - Oliver
 
 ## Food
 
-- [ ] Netto
-- [ ] Pizzalieferdienst
+- [ ] Netto - Oliver
+- [ ] Pizzalieferdienst - Ask Anja, Fuad
