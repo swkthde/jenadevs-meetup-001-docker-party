@@ -8,6 +8,10 @@ Softwerkskammer Jena
 
 ---
 
+![Manifesto](images/Softwerkskammer_Manifest_en.png)
+
+---
+
 ![Softwerkskammer](images/Softwerkskammer_WappenMitText_Schwarz_transparent.png)
 
 ---
