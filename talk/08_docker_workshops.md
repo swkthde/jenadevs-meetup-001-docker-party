@@ -1,32 +1,34 @@
+# Workshop Teasers
 
-## Workshops Intro
+- **Kickstarter:** Docker Birthday App
+- **Advanced:** Dockerfiles and Integrationtests
+- **Special:** Core OS Expirmenys
 
-- _Beginner:_ Docker Birthday App
-- _Advanced:_ Dockerfiles and Integrationtests
-- _Special:_ Core OS Expirmenys
+----
 
----
+## Docker Birthday App
 
-### Docker Birthday App
-
-- Level: Beginner
-- Goal: Learn Docker Commands and Docker Compose
+- **Level: Kickstarter**
+- Goal: Learn  Docker Commands and Docker Compose
 - Sources: [Repo](https://github.com/docker/docker-birthday-3), [Slides](), 
 - Maintainer: Benjamin
 
----
+----
 
-### Dockerfiles and Integrationtests
+## Dockerfiles and Integrationtests
 
-- Level: Advanced
-- Goal: Write Dockerfiles and inegration tests with CircleCI
+- **Level: Advanced**
+- Prerequisites: Basic Docker commands and workflow
+- Goal: Write Dockerfiles, entrypoint script, templating with env vars, integration tests with CircleCI
 - Sources: [Repo](https://github.com/docker/docker-birthday-3), [Slides](), 
 - Maintainer: Christian, Bastian
 
----
+----
 
-### Core OS
+## Core OS Experiments
 
-- Goal: Setup a cluster and run several docker containers on it.
+- **Level: Special - Exploding Kittens!!!**
+- Prerequisites: Shell knowledge and an enquiring mind ;-)
+- Goal: Setup a CoreOS cluster and run multi-container birthday party app.
 - Sources: [Article](https://developer.epages.com/blog/2016/01/19/setup-a-coreos-cluster.html#install-vagrant), [Repo](https://github.com/jenadevs/coreos-vagrant)
 - Maintainer: Andreas

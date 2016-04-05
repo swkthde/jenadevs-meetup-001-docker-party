@@ -1,12 +1,12 @@
 ## Examples
 
 - Base Images
-- App Enviroments
-- Support Tools
+- Enviroment Images
+- Tools Images
 
 ----
 
-#### Base Images
+## Popular Base Images
 
 - [Busybox](https://hub.docker.com/_/busybox/)
 - [Alpine](https://hub.docker.com/_/alpine/)
@@ -14,17 +14,19 @@
 
 ----
 
-#### App Environment Images
+## Helpful Environment Images
 
 - [PHP](https://hub.docker.com/_/php/)
 - [Ruby](https://hub.docker.com/_/ruby/)
-- [Java](https://hub.docker.com/_/java/)
+- [Java JRE/JDK](https://hub.docker.com/_/java/)
 - [Python](https://hub.docker.com/_/python/)
 - [MySQL](https://hub.docker.com/_/mysql/) with phpMyAdmin
 
 ----
 
-#### Support tools
+## Some Tool Images
 
-- [Jenkins](https://hub.docker.com/_/jenkins/)
+- [Magento](https://hub.docker.com/r/goellnerit/magento-docker)
+- [Confluence](https://hub.docker.com/r/goellnerit/confluence-docker)
+- [Jira](https://hub.docker.com/r/goellnerit/jira-docker)
 - [LimeSurvey](https://hub.docker.com/r/crramirez/limesurvey/)

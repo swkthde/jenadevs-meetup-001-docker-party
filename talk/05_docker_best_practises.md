@@ -1,11 +1,11 @@
-## Best Practices for Dockerfiles
+# Best Practices for Dockerfiles
 
 - Official Best Practises
 - Our Input
 
 ----
 
-### Official Best Practises
+## Official Best Practises
 
 - 1
 - 2
@@ -14,9 +14,9 @@
 
 ----
 
-### Our Input
+## Our Input
 
- Vererbung 
+- Vererbung fixed Version
 - off Docker repo
 - Gosu
 - Layers

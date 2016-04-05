@@ -11,34 +11,34 @@
 
 ### Parts
 
-* Machine/Engine
-* Dameon/Client
-* Compose
-* Swarm
+- Machine/Engine
+- Dameon/Client
+- Compose
+- Swarm
 
 ----
 
 ### Setup 
 
-Win/Mac/Linux
-Docker Toolbox
+- Win/Mac/Linux
+- Docker Toolbox
 
----
+----
 
 ### Workflow
 
-Build
-Run
-Ship
-Pull
-Use
+- Build
+- Run
+- Ship
+- Pull
+- Use
 
----
+----
 
 ### CLI Commandos
 
 
----
+----
 
 ### Dockerfile
 

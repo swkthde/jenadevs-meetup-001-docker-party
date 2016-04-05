@@ -1,18 +1,17 @@
-
 # Docker Introduction
 
-* What is Docker?
-* Docker Basics
-* Why Docker?
-* What is a container?
-* Bare Metal vs VM vs Docker
+- What is Docker?
+- Docker Basics
+- Why Docker?
+- What is a container?
+- Bare Metal vs VM vs Docker
 
 ----
 
 Visted Anlass für Meetup
 Eigene Use Cases
 
----
+----
 
 # What is docker?
 
@@ -29,7 +28,7 @@ Eigene Use Cases
 - Docker Registry
 - Docker DataCenter
 
---- 
+----
 
 # Why Docker? (slides from DB3)
 
@@ -37,7 +36,7 @@ Eigene Use Cases
 - The challenge: new matrix from hell
 - Why should develpors care?
 
----
+----
 
 # What is a container?
 
@@ -46,7 +45,7 @@ Eigene Use Cases
 -
 -
 
----
+----
 
 # Bare Metal
 

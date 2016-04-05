@@ -1,17 +1,16 @@
-
 # Docker Party
 
 Introduction and Best Practises for Containers
 
----
+----
 
-# Docker Birthday #3
+## Docker Birthday #3
 
 ![Cake](images/docker_party.png)
 
 ----
 
-# Twitter 
+## Twitter 
 
 ![Cake](images/docker_birthday_cake.png)
 
