@@ -18,8 +18,9 @@
 
 ## Operations Team
 
-- [Docker Swarm](https://docs.docker.com/swarm)
-- [Kubernetes](http://kubernetes.io)
+- Build environment with custom perl
+- Icinga2 configuration check
+- Running Docker in [Kubernetes](http://kubernetes.io) cluster
 
 ---
 
