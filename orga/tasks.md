@@ -9,8 +9,8 @@
 - [ ] 04 Docker Basics
 - [ ] 05 Docker Best Practises
 - [ ] 05 Docker Examples
-- [ ] 07 Docker Use Cases: Release Automation Team - Bastian, Kay
-- [ ] 07 Docker Use Cases: Application Management - Christian
+- [x] 07 Docker Use Cases: Release Automation Team - Bastian, Kay
+- [x] 07 Docker Use Cases: Application Management - Christian
 - [x] 07 Docker Use Cases: Home and Media Lab - Benjamin
 - [x] 08 Workshop Teaser
 

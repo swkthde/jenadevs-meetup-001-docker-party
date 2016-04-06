@@ -1,6 +1,6 @@
 # Jena Developers Meetup
 
-Softwerkskammer Jena
+_Softwerkskammer Jena_
 
 ---
 
@@ -16,9 +16,9 @@ Softwerkskammer Jena
 
 ---
 
-Software Craftsmanship Communities
-
 ![Software Craftsmanship Community](images/Softwerkskammer_Karte.png)
+
+Current Software Craftsmanship Communities
 
 ---
 
@@ -41,4 +41,4 @@ to tweet about us tonight!
 
 ---
 
-[__RECAP__](..)
+[__HOME__](..)
