@@ -1,0 +1,7 @@
+machine:
+  services:
+    - docker
+
+test:
+  override:
+    - curl 127.0.0.1 | grep "pollForm" | [[ $(wc -m) -gt 0 ]] || exit 1
