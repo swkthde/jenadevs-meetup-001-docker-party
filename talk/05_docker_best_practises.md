@@ -1,13 +1,13 @@
-# Best Practices for Dockerfiles
+## Best Practices for Dockerfiles
 
-- Official Best Practises
+- Official Tips from Docs
 - Tips by Michael Crosby
-- Jeff Lindsay
+- Tips by Jeff Lindsay
 - Our experience
 
 ---
 
-## Official Best Practises
+### Official Tips from Docs
 
 - 1
 - 2
@@ -16,19 +16,7 @@
 
 ---
 
-# Tips by Michael Crosby
-
-- 1
-- 2
-- 3
-- 4
-
-
----
-
-# Tips by Jeff Lindsay
-
-_Jeff Lindsay is the author of Dokku and many Docker related OSS projects_
+### Tips by Michael Crosby
 
 - 1
 - 2
@@ -37,14 +25,24 @@ _Jeff Lindsay is the author of Dokku and many Docker related OSS projects_
 
 ---
 
-## Our experience
+### Tips by Jeff Lindsay
 
-- Vererbung fixed Version
-- off Docker repo
-- Gosu
-- Layers
-- Entrypoint etc.
-- CircleCi tests
+- 1
+- 2
+- 3
+- 4
+
+<small>Jeff Lindsay is the author of Dokku and many Docker related OSS projects</small>
+
+---
+
+### Our experience
+
+- Use fixed version for base image
+- Prefer offical base images
+- Use [gosu](https://github.com/tianon/gosu) for easy-stepdown from root
+- Define own entrypoint if needed
+- Write integration tests, e.g. with CircleCI
 
 ---
 

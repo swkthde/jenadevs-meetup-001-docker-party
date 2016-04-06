@@ -5,8 +5,8 @@
 
 - [x] 01 Welcome
 - [x] 02 Docker Party
-- [x] 03 Docker Introduction
-- [ ] 04 Docker Basics
+- [x] 03 Docker Basics
+- [x] 04 Docker Commands
 - [ ] 05 Docker Best Practises
 - [x] 05 Docker Examples
 - [x] 07 Docker Use Cases: Release Automation Team - Bastian, Kay

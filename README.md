@@ -26,8 +26,8 @@ reveal-md talk/01_welcome.md --theme jenadevs
 #
 # Talk (part 1)
 reveal-md talk/02_docker_party.md --theme white
-reveal-md talk/03_docker_introduction.md --theme white
-reveal-md talk/04_docker_basics.md --theme white
+reveal-md talk/03_docker_basics.md --theme white
+reveal-md talk/04_docker_commands.md --theme white
 #
 # Demo (hello-world and show basic workflows)
 #
