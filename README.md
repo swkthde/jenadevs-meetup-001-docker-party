@@ -29,7 +29,7 @@ reveal-md talk/02_docker_party.md --theme white
 reveal-md talk/03_docker_introduction.md --theme white
 reveal-md talk/04_docker_basics.md --theme white
 #
-# Demo (show basic workflows)
+# Demo (hello-world and show basic workflows)
 #
 # Talk (part 2)
 reveal-md talk/05_docker_best_practices.md --theme white
