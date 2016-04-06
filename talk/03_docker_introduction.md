@@ -1,4 +1,4 @@
-# Docker Introduction
+## Docker Introduction
 
 - What is Docker?
 - Docker Basics
@@ -6,21 +6,16 @@
 - What is a container?
 - Bare Metal vs VM vs Docker
 
-----
+---
 
-Visted Anlass für Meetup
-Eigene Use Cases
-
-----
-
-# What is docker?
+### What is docker?
 
 - Short Company History
 - Products
 
-----
+---
 
-# Docker Parts
+### Docker Parts
 
 - Docker Image
 - Docker Container
@@ -28,25 +23,29 @@ Eigene Use Cases
 - Docker Registry
 - Docker DataCenter
 
-----
+---
 
-# Why Docker? (slides from DB3)
+### Why Docker? (slides from DB3)
 
 - Applications are changing 
 - The challenge: new matrix from hell
 - Why should develpors care?
 
-----
+---
 
-# What is a container?
+### What is a container?
 
 -
 -
 -
 -
 
-----
+---
 
-# Bare Metal
+### Bare Metal
 
-http://codurance.com/2016/03/16/Containers-all-the-way-through/
+http://codurance.com/2016/03/16/Containers-all-the-way-through
+
+---
+
+[__RECAP__](..)

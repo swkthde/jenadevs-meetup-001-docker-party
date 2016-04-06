@@ -22,3 +22,7 @@
 - Layers
 - Entrypoint etc.
 - CircleCi tests
+
+---
+
+[__RECAP__](..)

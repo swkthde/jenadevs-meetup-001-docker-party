@@ -12,7 +12,7 @@ Softwerkskammer Jena
 
 ---
 
-![Softwerkskammer](images/Softwerkskammer_WappenMitText_Schwarz_transparent.png)
+![Softwerkskammer](images/Softwerkskammer_WappenMitText.png)
 
 ---
 
@@ -38,3 +38,7 @@ Software Craftsmanship Communities
 
 Please use #jenadevs #dockerbday  
 to tweet about us tonight!
+
+---
+
+[__RECAP__](..)

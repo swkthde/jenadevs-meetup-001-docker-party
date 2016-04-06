@@ -36,7 +36,6 @@ reveal-md talk/08_docker_workshops.md --theme white
 
 ### Workshop
 
-* [Official Docker Birthday App](https://github.com/docker/docker-birthday-3)
-* [Core OS Experiments](https://github.com/jenadevs/coreos-vagrant)
-* In repo dir: `workshop/`
-
+* Beginner: [Official Docker Birthday App](https://github.com/docker/docker-birthday-3)
+* Advanced: `circle.yml` and `workshop/php/Dockerfile`
+* Special: [Core OS Experiments](https://github.com/jenadevs/coreos-vagrant)

@@ -7,7 +7,7 @@
 * CLI commands
 * Dockerfile
 
-----
+---
 
 ### Parts
 
@@ -16,14 +16,14 @@
 - Compose
 - Swarm
 
-----
+---
 
 ### Setup 
 
 - Win/Mac/Linux
 - Docker Toolbox
 
-----
+---
 
 ### Workflow
 
@@ -33,13 +33,17 @@
 - Pull
 - Use
 
-----
+---
 
 ### CLI Commandos
 
 
-----
+---
 
 ### Dockerfile
 
 [screenshot]
+
+---
+
+[__RECAP__](..)
