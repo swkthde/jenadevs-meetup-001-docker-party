@@ -30,7 +30,6 @@
 - test environment uses same images as dev environment
 - increase testing capabilities by increasing no. of available containers
 - [docker-selenium](https://github.com/SeleniumHQ/docker-selenium/) provides pre-built images with Selenium
->>>>>>> Add use case changes.
 
 ---
 
@@ -39,7 +38,6 @@
 - CI/CD with [Jenkins](https://hub.docker.com/_/jenkins/)
 - [Jenkins in Docker tutorial](http://shashikantjagtap.net/get-started-with-brand-new-jenkins-2-0-with-docker)
 - Data Analysis with [Logstash](https://www.elastic.co/products/logstash) and [Elasticsearch](https://www.elastic.co/products/elasticsearch)
-- Provisioning with [Capistrano](http://capistranorb.com)
 
 ---
 
