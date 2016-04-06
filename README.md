@@ -1,6 +1,8 @@
 ## Docker Party - Introduction and Best Practices for Containers
 
-This repository of the 1st [Jena Developers Meetup](www.meetup.com/jenadevs) of the [Softwerkskammer Jena](https://www.softwerkskammer.org/groups/jena), the local Software Craftsmanship Community around Jena, contains the material for the talk, the workshop and reference notes like a cheatsheet and a linklist.
+_This is the 1st [Jena Developers Meetup](www.meetup.com/jenadevs) of [Softwerkskammer Jena](https://www.softwerkskammer.org/groups/jena), the Software Craftsmanship Community around Jena._
+
+The repository contains the material for the talk, the workshops and references like a cheatsheet and linklist.
 
 The event and its participants are listed here:
 
@@ -13,29 +15,36 @@ Slides can be run via [reveal-md](https://github.com/webpro/reveal-md).
 
 ```
 # open all slide decks via dir
-reveal-md talk/
+reveal-md talk/ --theme white
 ````
 
 On the meetup day we opened the slide decks with these settings.
 
 ```
-# TALK: Part 1
+# Short intro to the meetup
 reveal-md talk/01_welcome.md --theme jenadevs
+
+# Talk (part 1)
 reveal-md talk/02_docker_party.md --theme white
 reveal-md talk/03_docker_introduction.md --theme white
 reveal-md talk/04_docker_basics.md --theme white
 
-# DEMO: Basic Usage of Docker
+# Demo (show basic workflows)
 
-# TALK: Part 2
+# Talk (part 2)
 reveal-md talk/05_docker_best_practices.md --theme white
-reveal-md talk/06_docker_use_cases.md --theme white
+reveal-md talk/06_docker_examples.md --theme white
 reveal-md talk/07_docker_use_cases.md --theme white
+# Demo (show use cases)
+
+# Outline the workshop groups
 reveal-md talk/08_docker_workshops.md --theme white
 ```
 
-### Workshop
+### Workshops
 
 * Beginner: [Official Docker Birthday App](https://github.com/docker/docker-birthday-3)
-* Advanced: `circle.yml` and `workshop/php/Dockerfile`
+* Advanced: Inside this repo use `circle.yml` and fulfill `workshop/` dir tasks
 * Special: [Core OS Experiments](https://github.com/jenadevs/coreos-vagrant)
+* ...
+
