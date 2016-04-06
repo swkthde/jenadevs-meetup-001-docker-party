@@ -5,10 +5,10 @@
 
 - [x] 01 Welcome
 - [x] 02 Docker Party
-- [ ] 03 Docker Introduction
+- [x] 03 Docker Introduction
 - [ ] 04 Docker Basics
 - [ ] 05 Docker Best Practises
-- [ ] 05 Docker Examples
+- [x] 05 Docker Examples
 - [x] 07 Docker Use Cases: Release Automation Team - Bastian, Kay
 - [x] 07 Docker Use Cases: Application Management - Christian
 - [x] 07 Docker Use Cases: Home and Media Lab - Benjamin

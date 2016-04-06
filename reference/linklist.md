@@ -1,11 +1,11 @@
 # Links
 
-## General
+### General
 
 - Docker Hub: https://hub.docker.com/
 - Docker Library: https://github.com/docker-library
 
-## CLI commands
+### CLI commands
 
 - docker build: https://docs.docker.com/engine/reference/commandline/build
 - docker run: https://docs.docker.com/engine/reference/commandline/run
@@ -14,7 +14,7 @@
 - docker pull: https://docs.docker.com/engine/reference/commandline/pull
 - docker commit: https://docs.docker.com/engine/reference/commandline/commit
 
-## Best practises
+### Best practises
 
 - http://crosbymichael.com/dockerfile-best-practices.html
 - http://crosbymichael.com/dockerfile-best-practices-take-2.html
@@ -24,7 +24,7 @@
 - http://jonathan.bergknoff.com/journal/building-good-docker-images
 - http://www.infoq.com/interviews/lindsay-docker
 
-## Interesting Articles
+### Interesting Articles
 
 - Docker cheatsheet: https://github.com/wsargent/docker-cheat-sheet
 - The history of containers: https://dzone.com/articles/evolution-of-linux-containers-future?edition=136255&utm_source=Spotlight&utm_medium=email&utm_content=queue&utm_campaign=devops%202016-01-29
