@@ -11,7 +11,7 @@
 - [Busybox](https://hub.docker.com/_/busybox)
 - [Alpine](https://hub.docker.com/_/alpine)
 - [Debian](https://hub.docker.com/_/debian)
-- more see [github.com/docker-library](https://github.com/docker-library)
+- more: [github.com/docker-library](https://github.com/docker-library)
 
 ---
 

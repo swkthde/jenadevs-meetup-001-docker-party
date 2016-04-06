@@ -1,33 +1,51 @@
 # Docker Use Cases
 
-- Automation Team
-- Operations Team
-- Home and Media Lab
+- Dev and Testing
+- CI and CD
+- Operations
 
 ---
 
-## Automation Team
+## Dev and Testing
 
-- [Selenium](http://www.seleniumhq.org/) Test Framework
-- [CasperJS](http://casperjs.org) Performance Tests Framework
+- same environment for everyone
+- easy setup of complex architectures
+- use common base image and extend it with your application
+- containerize the different parts of your application
+
+---
+
+## Dev and Testing
+
+- new developers need Docker only
+- QA can spin up containers for testing (no need for long-running installs)
+- reproducing errors is not affected by different environments
+
+---
+
+## Dev and Testing
+
+- use containers for testing
+- test environment can be setup more easily
+- test environment uses same images as dev environment
+- increase testing capabilities by increasing no. of available containers
+- [docker-selenium](https://github.com/SeleniumHQ/docker-selenium/) provides pre-built images with Selenium
+
+---
+
+## CI and CD
+
+- CI/CD with [Jenkins](https://hub.docker.com/_/jenkins/)
+- [Jenkins in Docker tutorial](http://shashikantjagtap.net/get-started-with-brand-new-jenkins-2-0-with-docker)
 - Data Analysis with [Logstash](https://www.elastic.co/products/logstash) and [Elasticsearch](https://www.elastic.co/products/elasticsearch)
-- [Jenkins](https://hub.docker.com/_/jenkins/) Pipeline Experiments: [Tutorial](http://shashikantjagtap.net/get-started-with-brand-new-jenkins-2-0-with-docker)
-- Provisioning with [Capistrano](http://capistranorb.com)
 
 ---
 
-## Operations Team
+## Operations
 
 - Build environment with custom perl
 - Icinga2 configuration check
 - Running Docker in [Kubernetes](http://kubernetes.io) cluster
-
----
-
-## Home and Media Lab
-
-- [ownCloud](https://hub.docker.com/_/owncloud/) and [Ampache](https://hub.docker.com/r/ampache/ampache/): [Tutorial](http://arielelkin.github.io/articles/easily-sync-and-stream-your-entire-music-collection-using-docker.html)
-- [Raspberry Pi VPN Server](https://hub.docker.com/r/netzfisch/rpi-vpn-server)
 
 ---
 
