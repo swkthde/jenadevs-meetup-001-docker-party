@@ -21,9 +21,9 @@ _See Flipchart_
 ### CLI Commandos
 
 ```
-docker ps
+docker ps -a 
 docker images
-docker build
+docker build -t <IMAGE_NAME> <DIR>
 docker run
 docker login
 docker push
@@ -38,12 +38,14 @@ docker commit
 ### Dockerfile Commands
 
 ```
-FROM
-MAINTAINER
+FROM <IMAGE_NAME>:<IMAGE_TAG>
+MAINTAINER <NAME> <SURNAME> "name.surname@company.com"
+ENV
 RUN
 ADD
 COPY
 VOLUME
+EXPOSE
 CMD
 ```
 

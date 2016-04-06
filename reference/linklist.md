@@ -2,10 +2,14 @@
 
 ### General
 
-- Docker Hub: https://hub.docker.com/
+- Docker Engine: https://docs.docker.com/engine
+- Docker Machine: https://docs.docker.com/machine
+- Docker Compose: https://docs.docker.com/compose
+- Docker Swarm: https://docs.docker.com/swarm
+- Docker Hub: https://docs.docker.com/docker-hub/overview, https://hub.docker.com
 - Docker Library: https://github.com/docker-library
 
-### CLI commands
+### CLI Commands
 
 - docker build: https://docs.docker.com/engine/reference/commandline/build
 - docker run: https://docs.docker.com/engine/reference/commandline/run
@@ -14,7 +18,7 @@
 - docker pull: https://docs.docker.com/engine/reference/commandline/pull
 - docker commit: https://docs.docker.com/engine/reference/commandline/commit
 
-### Best practises
+### Best Practices
 
 - http://crosbymichael.com/dockerfile-best-practices.html
 - http://crosbymichael.com/dockerfile-best-practices-take-2.html

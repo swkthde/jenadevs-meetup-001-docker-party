@@ -10,17 +10,17 @@
 
 ![Docker Inc](images/docker_inc.jpg)
 
-----
+---
 
 ![Docker Basics](images/docker_basics.jpg)
 
----
+--
 
 ### Why Docker?
 
 ![Applications Changing](images/docker_apps_changing.jpg)
 
-----
+---
 
 ### Containers as solution
 
@@ -30,7 +30,7 @@
 - Easily portable across environment
 - Allows ecosystem to develop around its standard
 
-----
+---
 
 ### Why should develpors care?
 
@@ -41,7 +41,7 @@
 - Reduce/eliminate concerns about compatibility on different platforms, either your own or your customers. 
 - Cheap, zero-penalty containers to deploy services?
 
-----
+---
 
 ### Why should Ops care?
 
@@ -58,19 +58,19 @@
 
 <small>Use of the following images by [Mani Sarkar](http://codurance.com/2016/03/16/Containers-all-the-way-through) personally granted.</small>
 
-----
+---
 
 ![Bare Metal](images/systems_bare_metal.png)
 
-----
+---
 
 ![Virtual Machine](images/systems_virtual.png)
 
-----
+---
 
 ![Container](images/systems_container.png)
 
-----
+---
 
 ### Comparison
 
