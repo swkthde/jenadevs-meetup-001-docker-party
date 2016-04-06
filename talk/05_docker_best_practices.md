@@ -9,32 +9,23 @@
 
 ### Official Tips from Docker Docs [1](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices)
 
-- 1
-- 2
-- 3
-- 4
+- Containers should be ephemeral
+- Use a .dockerignore file
+- Avoid installing unnecessary packages
+- Run only one process per container
+- Sort multi-line arguments
 
 ---
 
 ### Tips by Michael Crosby [1](http://crosbymichael.com/dockerfile-best-practices.html) [2](http://crosbymichael.com/dockerfile-best-practices-take-2.html)
 
-- 1
-- 2
-- 3
-- 4
+- Use the build cache
+- Use tags
+- Don't upgrade in builds
+- Use small base images
+- Group common operatinos
 
-<small>Michael Crosby is a blogger, Docker and Go expert.</small>
-
----
-
-### Tips by Jeff Lindsay [1](http://www.infoq.com/interviews/lindsay-docker)
-
-- 1
-- 2
-- 3
-- 4
-
-<small>Jeff Lindsay is the author of Dokku and many Docker related OSS projects.</small>
+<small>Michael Crosby (working for Docker) is a blogger, Docker and Go expert.</small>
 
 ---
 
@@ -49,3 +40,14 @@
 ---
 
 [__HOME__](..)
+
+### Tips by Jeff Lindsay [1](http://www.infoq.com/interviews/lindsay-docker)
+
+- 1
+- 2
+- 3
+- 4
+
+<small>Jeff Lindsay is the author of Dokku and many Docker related OSS projects.</small>
+
+---
