@@ -30,10 +30,4 @@ Hashtag: [#dockerbday](https://twitter.com/search?f=tweets&vertical=default&q=%2
 
 ---
 
-### App Architecture
-
-![Birthday App](images/docker_birthday_app_architecture.png)
-
----
-
-[__HOME__](..)
+[__03 Docker Basics__](..)

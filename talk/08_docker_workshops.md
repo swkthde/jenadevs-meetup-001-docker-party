@@ -2,15 +2,21 @@
 
 _The 3rd birthday needs 3 workshops, of course!_
 
-- **Kickstarter:** Official Docker Birthday App
+- **Beginner:** Official Docker Birthday App
 - **Advanced:** Dockerfiles and Integrationtests from Scratch
 - **Special:** Core OS Experiments
 
 ---
 
+### Voting Application
+
+![Birthday App](images/docker_birthday_app_architecture.png)
+
+---
+
 ### Official Docker Birthday App
 
-- Level: **Kickstarter**
+- Level: **Beginner**
 - Goal: Setup Docker, Learn basic commands, build-and-run-workflow and first steps with Docker Compose.
 - Sources: [Repo](https://github.com/docker/docker-birthday-3), [Slides](https://github.com/docker/docker-birthday-3), [Tutorial](https://github.com/docker/docker-birthday-3/blob/master/tutorial.md).
 - Maintainer: Benjamin

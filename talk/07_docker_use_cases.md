@@ -45,8 +45,8 @@
 
 - Build environment with custom perl
 - Icinga2 configuration check
-- Running Docker in [Kubernetes](http://kubernetes.io) cluster
+- Running containers in [Kubernetes](http://kubernetes.io) cluster
 
 ---
 
-[__HOME__](..)
+[__08 Docker Workshops__](..)

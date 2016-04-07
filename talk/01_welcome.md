@@ -41,4 +41,4 @@ to tweet about us tonight!
 
 ---
 
-[__HOME__](..)
+[__02 Docker Party Introduction__](..)
