@@ -25,13 +25,13 @@ _See Flipchart_
 ```
 docker build -t ${DOCKER_IMAGE_NGINX}:${DOCKER_IMAGE_TAG} ${DIR}
 
-docker run -it --name my-first-container \
+docker run -it -d --name my-first-container \
 	ubuntu:14.04 \
 	/bin/echo "Hello World"
 
 docker ps -a
 
-docker run --rm -d \
+docker run --rm \
     --env-file "<PATH_TO_ENV_FILE>" \
     -p ${HOST_HTTP_PORT}:${DOCKER_HTTP_PORT} \
     -p ${HOST_TCP_PORT}:${DOCKER_TCP_PORT} \
