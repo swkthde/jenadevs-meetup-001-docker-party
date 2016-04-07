@@ -32,25 +32,25 @@
 
 ---
 
-### Why should develpors care?
+### Why should developers care?
 
-- A fast, clean, safe, hygienic and portable runtime environment for your app.
+- A fast, clean, safe, hygienic and portable runtime
 - No missing dependencies, packages and other pain points
-- own isolated container, so you can run various versions of libraries
-- Automate testing, integration, packaging…anything you can script 
-- Reduce/eliminate concerns about compatibility on different platforms
+- Own isolated container, various versions of libraries
+- Automate testing, integration, packaging
+- Reduce/eliminate concerns about compatibility on platforms
 - Cheap, zero-penalty containers to deploy services?
 
 ---
 
 ### Why should Ops care?
 
-- Make the entire lifecycle more efficient, consistent, and repeatable
-- Increase the quality of code produced by developers
-- Eliminate inconsistencies between development, test, production, and customer environments
+- Make the entire lifecycle more efficient, consistent and repeatable
+- Increase the quality of code produced by devs
+- Eliminate inconsistencies between dev, test, prod and customer environments
 - Support segregation of duties
 - Significantly improves the speed and reliability of CI/CD
-- lightweight, address significant performance, deployment costs
+- Lightweight, address significant performance, deployment costs
 
 ---
 
