@@ -37,4 +37,4 @@
 
 ---
 
-[__07 Docker Use Cases__](..)
+[__07 Docker Use Cases__](http://localhost:1948/07_docker_use_cases.md#/)

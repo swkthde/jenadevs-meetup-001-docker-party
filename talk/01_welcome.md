@@ -41,4 +41,4 @@ to tweet about us tonight!
 
 ---
 
-[__02 Docker Party Introduction__](..)
+[__02 Docker Party Introduction__](http://localhost:1948/02_docker_party.md#/)

@@ -41,4 +41,4 @@ Links: [1](http://crosbymichael.com/dockerfile-best-practices.html), [2](http://
 
 ---
 
-[__06 Docker Examples__](..)
+[__06 Docker Examples__](http://localhost:1948/06_docker_examples.md#/)

@@ -49,4 +49,4 @@
 
 ---
 
-[__08 Docker Workshops__](..)
+[__08 Docker Workshops__](http://localhost:1948/08_docker_workshops.md#/)

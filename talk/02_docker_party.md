@@ -30,4 +30,4 @@ Hashtag: [#dockerbday](https://twitter.com/search?f=tweets&vertical=default&q=%2
 
 ---
 
-[__03 Docker Basics__](..)
+[__03 Docker Basics__](http://localhost:1948/03_docker_basics.md#/)
