@@ -116,8 +116,45 @@ RUN curl -SL http://example.com/postgres-$PG_VERSION.tar.xz | tar -xJC /usr/src/
 
 ---
 
-### (16) ADD or COPY
+### (16) COPY
 
+- Prefer `COPY`. more transparent than `ADD`.
+- `COPY` only supports the basic copying of local files into the container, while `ADD` has some features (like local-only tar extraction and remote URL support) that are not immediately obvious.
+
+- **FEWER CACHE INVALIDATIONS:** Reuse multiple COPY steps individually. Ensures that each step’s build cache is only invalidated (forcing the step to be re-run) if a file changes.
+```
+COPY requirements.txt /tmp/
+RUN pip install --requirement /tmp/requirements.txt
+COPY . /tmp/
+```
+
+---
+
+### (17) ADD
+
+- **TAR AUTO-EXTRACTION**: `ADD rootfs.tar.xz /`
+- Because image size matters, using `ADD` to fetch packages from remote URLs is strongly discouraged; you should use `curl` or `wget`
+
+```
+# Bad
+ADD http://example.com/big.tar.xz /usr/src/things/
+RUN tar -xJf /usr/src/things/big.tar.xz -C /usr/src/things
+RUN make -C /usr/src/things all 
+
+# Good
+RUN mkdir -p /usr/src/things \
+    && curl -SL http://example.com/big.tar.xz \
+    | tar -xJC /usr/src/things \
+    && make -C /usr/src/things all
+```
+
+---
+
+### (18) Entrypoint Script
+
+- Simple Example epagesdocs: [Dockerfile](https://github.com/ePages-de/epages-docs/blob/develop/Dockerfile.ruby), [Entrypoint Script](https://github.com/ePages-de/epages-docs/blob/develop/_docker/ruby/docker-entrypoint.sh), CAUTION: uses root user for testing!
+
+- Complex Example **to-logstash**: [Dockerfile](https://github.com/ePages-de/to-logstash/blob/dev/Dockerfile), [Entrypoint Script](https://github.com/ePages-de/to-logstash/blob/dev/docker-entrypoint.sh)
 
 ---
 
@@ -143,6 +180,14 @@ Links: [1](http://crosbymichael.com/dockerfile-best-practices.html), [2](http://
 - Define own entrypoint if needed
 - Write integration tests, e.g. with CircleCI
 - More Tips: [[1](https://getcarina.com/docs/best-practices/docker-best-practices-dockerfile)] [[2](http://jonathan.bergknoff.com/journal/building-good-docker-images)] [[3](https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images)] [[4](http://www.carlboettiger.info/2014/08/29/docker-notes.html)]
+
+---
+
+### Testing with CircleCI before usage
+
+- Simple example to-elasticsearch: [circel.yml](https://github.com/ePages-de/to-elasticsearch/blob/dev/circle.yml)
+
+- Complex example to-logstash: [circel.yml](https://github.com/ePages-de/to-logstash/blob/dev/circle.yml), [test scripts](https://github.com/ePages-de/to-logstash/tree/dev/test)
 
 ---
 
