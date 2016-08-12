@@ -42,6 +42,12 @@ reveal-md talk/07_docker_use_cases.md --theme white
 reveal-md talk/08_docker_workshops.md --theme white
 ```
 
+Run from container
+```
+docker build -t jenadevs-meetup:001 .
+docker run -v `pwd`/talk:/data -p 1948:1948 jenadevs-meetup:001
+```
+
 ### Workshops
 
 * Beginner: [Official Docker Birthday App](https://github.com/docker/docker-birthday-3)
